@@ -1,0 +1,86 @@
+[
+  {
+    "file": "pov_01_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_01_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_02_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_02_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_03_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_03_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_04_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_04_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_05_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_05_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_06_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_06_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_07_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_07_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_08_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_08_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_09_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_09_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_10_mastcam_left.jpg",
+    "url": "/data/gale/pov/pov_10_mastcam_left.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_LEFT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_11_mastcam_right.jpg",
+    "url": "/data/gale/pov/pov_11_mastcam_right.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_RIGHT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  },
+  {
+    "file": "pov_12_mastcam_right.jpg",
+    "url": "/data/gale/pov/pov_12_mastcam_right.jpg",
+    "sol": 5073,
+    "camera": "MASTCAM_RIGHT",
+    "description": "Mastcam Sol 5073 — zona boxwork Mount Sharp"
+  }
+]

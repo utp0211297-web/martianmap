@@ -45,11 +45,11 @@
       "type": "Feature",
       "properties": {
         "id": "pov1",
-        "name": "Vista Mastcam — Sol 412",
+        "name": "Mastcam — Zona boxwork Sol 5073",
         "type": "pov",
-        "sol": 412,
-        "camera": "MASTCAM",
-        "photo": "https://mars.nasa.gov/msl-raw-images/msss/00412/mcam/0412MR0017510000401723E01_DXXX.jpg"
+        "sol": 5073,
+        "camera": "MASTCAM_LEFT",
+        "photo": "/data/gale/pov/pov_01_mastcam_left.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -60,15 +60,30 @@
       "type": "Feature",
       "properties": {
         "id": "pov2",
-        "name": "Vista Navcam — Ladera Mount Sharp",
+        "name": "Mastcam — Ladera Mount Sharp Sol 5073",
         "type": "pov",
-        "sol": 387,
-        "camera": "NAVCAM",
-        "photo": "https://mars.nasa.gov/msl-raw-images/pub/ods/surface/sol/00387/opgs/edr/ncam/NLB_406033631EDR_F0150000NCAM00353M_.JPG"
+        "sol": 5073,
+        "camera": "MASTCAM_LEFT",
+        "photo": "/data/gale/pov/pov_05_mastcam_left.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [137.3134, -4.7988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pov3",
+        "name": "Mastcam — Vista panoramica Sol 5073",
+        "type": "pov",
+        "sol": 5073,
+        "camera": "MASTCAM_RIGHT",
+        "photo": "/data/gale/pov/pov_11_mastcam_right.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.3170, -4.8050]
       }
     }
   ]
